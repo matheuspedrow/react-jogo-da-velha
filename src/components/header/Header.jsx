@@ -7,8 +7,8 @@ import Icon from '../icon/Icon'
 function Header () {
   return (
     <div className={styles.header}>
-      <Title>Jogo da Velha</Title>
-      <Subtitle>Criado por Matheus Pedro!</Subtitle>
+      <Title>Jogo da Velha!</Title>
+      <Subtitle>Criado por Matheus Pedro! 😀 </Subtitle>
       <div className={styles.iconContent}>
         <Icon iconName="github" link="https://github.com/matheuspedrow" />
       </div>
